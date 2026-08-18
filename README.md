@@ -13,6 +13,14 @@
 | [claudebar](https://github.com/Yewon419/claudebar) | Claude 사용량을 실시간 표시하는 Windows 트레이 앱 | Python, pystray |
 | [HangsungDrone](https://github.com/Yewon419/HangsungDrone) | 실내 B2B 행사용 드론쇼 운영 SaaS 백엔드 | FastAPI, SQLAlchemy, Supabase |
 
+<p align="center">
+  <img src="assets/temporoutine-today.png" width="24%" alt="TempoRoutine 오늘 탭">
+  <img src="assets/temporoutine-calendar.png" width="24%" alt="TempoRoutine 캘린더">
+  <img src="assets/jejunow-home.png" width="24%" alt="JejuNow 홈">
+  <img src="assets/jejunow-map.png" width="24%" alt="JejuNow 혼잡도 지도">
+</p>
+<p align="center"><sub>왼쪽부터: TempoRoutine 오늘·캘린더 (디자인 프로토타입), JejuNow 홈·혼잡도 지도 (라이브 서비스)</sub></p>
+
 이 밖에 [Mypersona](https://github.com/Yewon419/Mypersona)(LLM 이식 가능한 페르소나 레이어), [MANEO](https://github.com/Yewon419/MANEO)(데스크탑 펫 게임), [cafe-finder](https://github.com/Yewon419/cafe-finder)(카페 탐색 모바일 앱) 등을 만들고 있습니다.
 
 ## 기술 스택
