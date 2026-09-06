@@ -15,6 +15,9 @@
 
 이 밖에 [Mypersona](https://github.com/Yewon419/Mypersona)(LLM 이식 가능한 페르소나 레이어), [MANEO](https://github.com/Yewon419/MANEO)(데스크탑 펫 게임), [cafe-finder](https://github.com/Yewon419/cafe-finder)(카페 탐색 모바일 앱) 등을 만들고 있습니다.
 
+> **다른 계정** — 일부 팀 프로젝트는 [@LoLe05](https://github.com/LoLe05)로 참여했습니다.
+> 예: [Fitness](https://github.com/vivamini7/Fitness) — MediaPipe 기반 실시간 스쿼트·안무 자세 평가 웹앱 (프로메테우스 6기 팀 프로젝트, FastAPI + React).
+
 ## 기술 스택
 
 - **언어**: Python, TypeScript, Swift
