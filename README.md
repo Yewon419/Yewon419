@@ -7,7 +7,9 @@
 | 프로젝트 | 소개 | 기술 |
 |---|---|---|
 | [TempoRoutine](https://github.com/Yewon419/TempoRoutine) | 무리하지 않는 리듬 기반 iOS 루틴·플래너 앱. TestFlight 베타 운영 중 | SwiftUI, SwiftData, CloudKit, WidgetKit |
+| [violence-temporal-localization](https://github.com/Yewon419/violence-temporal-localization) | 영화에서 물리폭력 구간을 찾는 temporal localization 파이프라인. 자작 구간 어노테이션 도구·라벨링 기준 수립, 6인 팀 프로젝트 리드 | PyTorch, ResNet50, Transformer, OpenCV |
 | [JejuNow](https://github.com/Yewon419/JejuNow) | 제주 관광지 혼잡도 예측·여행 플래너 (웹 + iOS 앱) | Next.js, Supabase, ML, Capacitor |
+| [chalkak](https://github.com/Yewon419/chalkak) | 맥 없이 CI에서 push마다 iOS 앱 스크린샷을 찍는 오픈소스 도구 | GitHub Actions, xcodebuild, simctl |
 | [AutoStock](https://github.com/Yewon419/AutoStock) | AI 기반 한국 주식 자동매매 플랫폼. AI 전략 생성·백테스트·실계좌 연동 | FastAPI, Vue 3, Celery, Docker, KIS API |
 | [MCP_supporter](https://github.com/Yewon419/MCP_supporter) | 채팅으로 MCP 서버 설치·설정을 자동화하는 메타 MCP 서버 | Python, MCP |
 | [claudebar](https://github.com/Yewon419/claudebar) | Claude 사용량을 실시간 표시하는 Windows 트레이 앱 | Python, pystray |
